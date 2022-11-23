@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "https://nandhan7.github.io/csb-v5qt8q/static/css/main.022cea08.chunk.css",
+    "main.js": "https://nandhan7.github.io/csb-v5qt8q/static/js/main.dcabc1cf.chunk.js",
+    "main.js.map": "https://nandhan7.github.io/csb-v5qt8q/static/js/main.dcabc1cf.chunk.js.map",
+    "runtime-main.js": "https://nandhan7.github.io/csb-v5qt8q/static/js/runtime-main.b8a93212.js",
+    "runtime-main.js.map": "https://nandhan7.github.io/csb-v5qt8q/static/js/runtime-main.b8a93212.js.map",
+    "static/js/2.8e67d22e.chunk.js": "https://nandhan7.github.io/csb-v5qt8q/static/js/2.8e67d22e.chunk.js",
+    "static/js/2.8e67d22e.chunk.js.map": "https://nandhan7.github.io/csb-v5qt8q/static/js/2.8e67d22e.chunk.js.map",
+    "index.html": "https://nandhan7.github.io/csb-v5qt8q/index.html",
+    "static/css/main.022cea08.chunk.css.map": "https://nandhan7.github.io/csb-v5qt8q/static/css/main.022cea08.chunk.css.map",
+    "static/js/2.8e67d22e.chunk.js.LICENSE.txt": "https://nandhan7.github.io/csb-v5qt8q/static/js/2.8e67d22e.chunk.js.LICENSE.txt",
+    "static/media/0.b104db43.jpg": "https://nandhan7.github.io/csb-v5qt8q/static/media/0.b104db43.jpg",
+    "static/media/1.cca80c6b.jpg": "https://nandhan7.github.io/csb-v5qt8q/static/media/1.cca80c6b.jpg",
+    "static/media/2.258d4f4d.jpg": "https://nandhan7.github.io/csb-v5qt8q/static/media/2.258d4f4d.jpg",
+    "static/media/3.ae4f2ecf.jpg": "https://nandhan7.github.io/csb-v5qt8q/static/media/3.ae4f2ecf.jpg",
+    "static/media/Mahabalipuram.1edcb807.jpg": "https://nandhan7.github.io/csb-v5qt8q/static/media/Mahabalipuram.1edcb807.jpg",
+    "static/media/back.0981be01.jpg": "https://nandhan7.github.io/csb-v5qt8q/static/media/back.0981be01.jpg",
+    "static/media/k.b7dddf32.jpg": "https://nandhan7.github.io/csb-v5qt8q/static/media/k.b7dddf32.jpg",
+    "static/media/kas.e08aba24.jpg": "https://nandhan7.github.io/csb-v5qt8q/static/media/kas.e08aba24.jpg",
+    "static/media/kas2.8fd33a14.jpg": "https://nandhan7.github.io/csb-v5qt8q/static/media/kas2.8fd33a14.jpg",
+    "static/media/punjab.280f9bf1.jpg": "https://nandhan7.github.io/csb-v5qt8q/static/media/punjab.280f9bf1.jpg",
+    "static/media/sakleshpur.5c4075b7.jpg": "https://nandhan7.github.io/csb-v5qt8q/static/media/sakleshpur.5c4075b7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8a93212.js",
+    "static/js/2.8e67d22e.chunk.js",
+    "static/css/main.022cea08.chunk.css",
+    "static/js/main.dcabc1cf.chunk.js"
+  ]
+}
